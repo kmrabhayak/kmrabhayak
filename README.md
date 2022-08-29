@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmrabhayak
 - 👀 I’m interested in making some innovative things
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning cloud computing
 - 
 -📫 Reach me on instagram @kmr_abhay
 -
