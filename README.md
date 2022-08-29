@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmrabhayak
-- 👀 I’m interested in making some innovative 
+- 👀 I’m interested in making some innovative things
 - 🌱 I’m currently learning data structures
 - 
 -📫 Reach me on instagram @kmr_abhay
